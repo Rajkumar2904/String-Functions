@@ -17,5 +17,6 @@ public static void main(String[] args) {
 	String e="9095484678";
 	int m = e.indexOf("8");
 	System.out.println("Index of 8 in 9095484678:"+m);
+	System.out.println("Hello world");
 }
 }
